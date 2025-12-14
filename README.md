@@ -1,15 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Clarisse
 
-<!--
-**forbulsueduclarisse/forbulsueduclarisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Clarisse — welcome to my GitHub profile!
 
-I'm Clarisse!
+- 🔭 I’m currently improving my programming skills
+- 🌱 I’m learning new languages and tools
+- 👯 I’m open to collaborating on beginner-friendly projects
+- 📫 Reach me: https://github.com/forbulsueduclarisse
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: I love reading and debugging code
 
-- 🔭 I’m currently working on improving my skills.
-- 🌱 I’m currently learning and enjoying programming.
-- 👯 I’m looking to collaborate on my projects.
-- 📫 How to reach me: Email or Github 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love reading and debugging code.
+## Skills & Interests
+- Languages: (add the languages you use, e.g. Python, JavaScript)
+- Topics: (add topics you work on, e.g. web-dev, data analysis)
 
+## Projects
+- Project ideas or links to repositories you want to highlight
 
+Thanks for visiting — feel free to follow or open an issue on any repo if you want to collaborate!
